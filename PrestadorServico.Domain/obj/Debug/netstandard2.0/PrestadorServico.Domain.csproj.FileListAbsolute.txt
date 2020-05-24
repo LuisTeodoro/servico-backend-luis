@@ -1,0 +1,9 @@
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\obj\Debug\netstandard2.0\PrestadorServico.Domain.csprojAssemblyReference.cache
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\obj\Debug\netstandard2.0\PrestadorServico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\obj\Debug\netstandard2.0\PrestadorServico.Domain.AssemblyInfoInputs.cache
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\obj\Debug\netstandard2.0\PrestadorServico.Domain.AssemblyInfo.cs
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\bin\Debug\netstandard2.0\PrestadorServico.Domain.deps.json
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\bin\Debug\netstandard2.0\PrestadorServico.Domain.dll
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\bin\Debug\netstandard2.0\PrestadorServico.Domain.pdb
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\obj\Debug\netstandard2.0\PrestadorServico.Domain.dll
+C:\Users\luist\Documents\ProjetoDWM\PrestadorServico\PrestadorServico.Domain\obj\Debug\netstandard2.0\PrestadorServico.Domain.pdb

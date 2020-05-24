@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3MElDJxuXLzwQ5ZX4yB0pMzz3V63VfcsTXzJHLRwTUgg+j5DPYcIxOKsM4dDQICH4xerZQ+dca2MlorMGI53Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luist\\Documents\\ProjetoDWM\\PrestadorServico\\PrestadorServico.Domain\\PrestadorServico.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luist\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luist\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
